@@ -1,0 +1,58 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    color: #9004ff;
+  }
+  
+  p {
+    color: #ffffff;
+  }
+  
+  /* Estilos específicos para a classe "ABA" */
+  .ABA {
+    background-color: #000000;
+    padding: 10px;
+  }
+  
+  /* Estilos para o rodapé */
+  footer {
+    background-color: #000000;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  /* Estilos para o conteúdo principal */
+  main {
+    padding: 20px;
+  }
+  
+  /* Estilos para a seção de perguntas frequentes */
+  #faq {
+    margin-bottom: 30px;
+  }
+  
+  #faq h1 {
+    font-size: 24px;
+  }
+  
+  #faq p {
+    font-size: 16px;
+  }
+  
+  /* Estilos para as seções de perguntas individuais */
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  .question h1 {
+    font-size: 20px;
+  }
+  
+  .question p {
+    font-size: 14px;
+  }
